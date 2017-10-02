@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f0ef0fb-04aa-4646-ac97-a117864a85b3" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="XZRTWebsite" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Tasks" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.TasksNode" />
+              </PATH_ELEMENT>
+            </PATH>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="XZRTWebsite" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="Source Sets" />
+                <option name="myItemType" value="org.jetbrains.plugins.gradle.service.project.view.GradleViewContributor$SourceSetsNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file leaf-file-name="Progress.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/Progress.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+              <folding>
+                <element signature="e#655#656#0" expanded="true" />
+                <element signature="e#691#692#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FormController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/FormController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding>
+                <element signature="e#701#702#0" expanded="true" />
+                <element signature="e#736#737#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/ResourceController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1152">
+              <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ResourceServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/ResourceServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9248">
+              <caret line="319" column="13" lean-forward="false" selection-start-line="319" selection-start-column="13" selection-end-line="319" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Repository" />
+        <option value="CoffeeScript File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getA</find>
+      <find>isca</find>
+      <find>save</find>
+      <find>s</find>
+      <find>srcCacheRe</find>
+      <find>contain</find>
+      <find>has</find>
+      <find>rootPath</find>
+      <find>fileRootPath</find>
+      <find>map</find>
+      <find>set</find>
+      <find>for</find>
+      <find>iterat</find>
+      <find>getGall</find>
+      <find>;</find>
+      <find>type</find>
+      <find>getINt</find>
+      <find>fileId</find>
+      <find>block</find>
+      <find>contentImage</find>
+      <find>image</find>
+      <find>contentBody</find>
+      <find>json</find>
+      <find>file</find>
+      <find>title</find>
+      <find>remove</find>
+      <find>saveA</find>
+      <find>saveAr</find>
+      <find>arti</find>
+      <find>maria</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>CacheRe</replace>
+      <replace>FILE_ROOT_PATH</replace>
+      <replace>dType</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Program Files (Disk)\gradle-3.3" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3.3" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="XZRTWebsite" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="XZRTWebsite" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'XZRTWebsite'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'XZRTWebsite'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'XZRTWebsite'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'XZRTWebsite'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'XZRTWebsite'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'XZRTWebsite'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Repackage existing JAR and WAR archives so that they can be executed from the command line using 'java -jar'" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRepackage" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Run the project with support for auto-detecting main class and reloading static resources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'XZRTWebsite'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'XZRTWebsite'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="findMainClass" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'XZRTWebsite'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1501033785282" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.4.0.RELEASE/c4238bfabdb5d284e08afad43b0f33b6b2f9d9d1/spring-boot-gradle-plugin-1.4.0.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.4.0.RELEASE/35f6578f2434a89b97f14599a998f7bca709443b/spring-boot-gradle-plugin-1.4.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.4.0.RELEASE/44da34a98fadba575f5daa4e83ac98cbedb60c93/spring-boot-loader-tools-1.4.0.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.4.0.RELEASE/b89ffc08c740c441c009f9fe1577868d4e84c119/spring-boot-loader-tools-1.4.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.6.0.RELEASE/7575ebe812e9988d7eff563ab046fab34a13d7c5/dependency-management-plugin-0.6.0.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.6.0.RELEASE/8be3924e1790c9cc089e6a96dbf2ed3c8fa0ed3/dependency-management-plugin-0.6.0.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/4d695ffe01b7f23d66dc8d587f78212fecc70614/spring-core-4.3.2.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/fd2f3cf45d3c84f293cb7ee3ab7d24c979495552/spring-core-4.3.2.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="XZRTWebsite" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/announce" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/antlr" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/base-services" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/base-services-groovy" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/build-cache-http" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/build-comparison" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/build-init" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/cli" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/code-quality" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/composite-builds" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/core" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/dependency-management" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/diagnostics" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/ear" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/ide" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/ide-native" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/ide-play" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/installation-beacon" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/internal-android-performance-testing" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/internal-integ-testing" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/internal-performance-testing" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/internal-testing" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/ivy" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/jacoco" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/javascript" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/jetty" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/jvm-services" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/language-groovy" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/language-java" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/language-jvm" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/language-native" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/language-scala" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/launcher" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/logging" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/maven" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/messaging" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/model-core" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/model-groovy" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/native" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/open-api" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/osgi" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/platform-base" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/platform-jvm" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/platform-native" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/platform-play" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/plugin-development" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/plugin-use" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/plugins" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/process-services" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/publish" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/reporting" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/resources" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/resources-http" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/resources-s3" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/resources-sftp" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/scala" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/signing" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/test-kit" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/testing-base" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/testing-jvm" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/testing-native" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/tooling-api" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/tooling-api-builders" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/ui" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/workers" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/src/wrapper" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/ant-1.9.6.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/ant-launcher-1.9.6.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-base-services-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-base-services-groovy-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-cli-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-core-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-docs-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-installation-beacon-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-jvm-services-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-launcher-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-logging-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-messaging-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-model-core-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-model-groovy-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-native-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-open-api-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-process-services-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-resources-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-script-kotlin-0.5.1.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-tooling-api-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-ui-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-version-info-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/gradle-wrapper-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/groovy-all-2.4.7.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-announce-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-antlr-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-build-cache-http-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-build-comparison-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-build-init-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-code-quality-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-composite-builds-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-dependency-management-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-diagnostics-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-ear-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-ide-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-ide-native-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-ide-play-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-ivy-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-jacoco-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-javascript-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-jetty-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-language-groovy-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-language-java-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-language-jvm-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-language-native-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-language-scala-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-maven-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-osgi-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-platform-base-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-platform-jvm-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-platform-native-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-platform-play-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-plugin-development-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-plugin-use-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-plugins-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-publish-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-reporting-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-resources-http-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-resources-s3-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-resources-sftp-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-scala-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-signing-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-test-kit-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-testing-base-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-testing-jvm-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-testing-native-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-tooling-api-builders-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/gradle-workers-3.3.jar" />
+                  <option value="C:/Program Files (Disk)/gradle-3.3/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/ResourceController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/block/Block.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/ArticleContent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/gui/blocks/BlockEle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/gui/blocks/ParagraphBlockEle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/gui/blocks/ImageBlockEle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/XzrtApplicationProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/XzrtConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/XzrtConfigFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/XzrtPropertiesFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/XzrtProperties.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/UploadForm.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/component/UrlBuilder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/File.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/Text.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/example/formAdd.json" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/block/ParagraphBlock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/block/ImageBlock.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/ArticleRemover.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/script/article-form.coffee" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/script/article-remover.coffee" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/ResourceService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/repository/ApplicantRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/ResourceServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/Applicant.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/query/ArticleQuery.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/gui/MenuItemEle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/gui/MenuFlowEle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/gui/HomeItemEle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/gui/HomeFlowEle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/Article.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/FormController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/ArticleForm.html" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/LoginPage.html" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/inteceptor/UserInteceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/UserInteceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/InteceptorRegister.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/InterceptorRegister.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/inteceptor/UserHandlerInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/script/login-page.coffee" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/Progress.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/static/script/uploadForm.coffee" />
+        <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/GuiServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-13" />
+    <option name="y" value="-13" />
+    <option name="width" value="2762" />
+    <option name="height" value="1770" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Ant inspections</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CoffeeScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>FreeMarker inspections</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Internationalization issuesJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Manifest</id>
+          </State>
+          <State>
+            <id>OSGi</id>
+          </State>
+          <State>
+            <id>OtherGroovy</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Portability issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>Properties FilesJava</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>Resource management issuesJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Sass/SCSS</id>
+          </State>
+          <State>
+            <id>SetupSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring BootSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>TestNGJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>Validity issuesGroovy</id>
+          </State>
+          <State>
+            <id>Velocity inspections</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XZRTWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XZRTWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XZRTWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XZRTWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XZRTWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XZRTWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XZRTWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="XZRTWebsite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".gradle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../androidBluetooth" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="user&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/UserController.java&#10;contro&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/FormController.java&#10;guiS&#9;PSI&#9;JAVA://com.wishai.xzrtw.service.GuiServiceImpl&#10;article&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/static/script/article-form.coffee&#10;info&#9;PSI&#9;JAVA://com.wishai.xzrtw.controller.InfoController&#10;Form&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/FormController.java&#10;appli&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/application.properties&#10;upload&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/static/script/uploadForm.coffee&#10;Resou&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/ResourceController.java&#10;login-page&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/static/script/login-page.js&#10;maincon&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/MainController.java&#10;SPRING_SESSION_ATT&#9;PSI&#9;JAVA://org.springframework.session.web.socket.server.SessionRepositoryMessageInterceptor#SPRING_SESSION_ID_ATTR_NAME&#10;FORM&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/FormController.java&#10;Main&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/MainController.java&#10;doLog&#9;PSI&#9;JAVA://com.wishai.xzrtw.controller.UserController#doLogin&#10;main&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/MainController.java&#10;Res&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/ResourceController.java&#10;Resour&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/ResourceController.java&#10;homeFLow&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/model/gui/HomeFlowEle.java&#10;Controller&#9;PSI&#9;JAVA://com.wishai.xzrtw.controller.ResourceController&#10;pro&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/application.properties&#10;co&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/config/XzrtConfig.java&#10;login-&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/static/script/login-page.coffee&#10;FormC&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/FormController.java&#10;UserC&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/UserController.java&#10;UserCon&#9;PSI&#9;JAVA://com.wishai.xzrtw.controller.UserController&#10;User&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/service/UserService.java&#10;Re&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/service/ResourceServiceImpl.java&#10;Us&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/service/UserService.java&#10;use&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/service/UserServiceImpl.java&#10;App&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/model/Applicant.java&#10;UserS&#9;PSI&#9;JAVA://com.wishai.xzrtw.service.UserServiceImpl&#10;Appli&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/model/Applicant.java&#10;Menu&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/model/gui/MenuFlowEle.java&#10;Home&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/model/gui/HomeItemEle.java&#10;MenuFlow&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/model/gui/MenuFlowEle.java&#10;MenuI&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/java/awt/MenuItem.class&#10;homeIte&#9;PSI&#9;JAVA://com.wishai.xzrtw.model.gui.HomeItemEle&#10;toHomeFLow&#9;PSI&#9;JAVA://com.wishai.xzrtw.model.Article#toHomeFlowEle&#10;join-wrapper&#9;null&#9;null&#10;app&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/application.properties&#10;Block&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/model/block/Block.java&#10;article-for&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/static/script/article-form.coffee&#10;contr&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/ResourceController.java&#10;formCont&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/controller/FormController.java&#10;re&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/service/ResourceServiceImpl.java&#10;remove&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/templates/ArticleRemover.html&#10;Image&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/java/com/wishai/xzrtw/model/block/ImageBlock.java&#10;arti&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/static/script/article-form.js&#10;form&#9;FILE&#9;file://C:/Users/clima/OneDrive/Program/XZRTWebsite/src/main/resources/static/script/article-form.coffee" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\clima\OneDrive\Program\XZRTWebsite\src\main\resources\templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\clima\OneDrive\Program\XZRTWebsite\src\main\resources\templates" />
+      <recent name="C:\Users\clima\OneDrive\Program\XZRTWebsite\src\main\resources\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.xzrt-go">
+    <configuration default="false" name="build" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="XZRTWebsite" />
+      <setting name="path" value="file://$PROJECT_DIR$/build.gradle" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method>
+        <option name="Make" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="main" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="xzrt-go" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wishai.xzrtw.XzrtWebsiteApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="XZRTWebsite_main" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.xzrt-go" />
+      <item index="1" class="java.lang.String" itemvalue="Groovy.build" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Groovy.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f0ef0fb-04aa-4646-ac97-a117864a85b3" name="Default" comment="" />
+      <created>1484691803283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484691803283</updated>
+      <workItem from="1484691808318" duration="1468000" />
+      <workItem from="1484693359661" duration="306000" />
+      <workItem from="1484693727128" duration="129000" />
+      <workItem from="1484713616660" duration="42000" />
+      <workItem from="1487793483859" duration="975000" />
+      <workItem from="1487798717335" duration="798000" />
+      <workItem from="1487829012163" duration="81000" />
+      <workItem from="1487873166932" duration="53000" />
+      <workItem from="1488249562010" duration="9929000" />
+      <workItem from="1488301405905" duration="8651000" />
+      <workItem from="1488398673266" duration="781000" />
+      <workItem from="1488405301474" duration="819000" />
+      <workItem from="1488474539878" duration="666000" />
+      <workItem from="1488484892631" duration="639000" />
+      <workItem from="1488492178343" duration="714000" />
+      <workItem from="1488589522207" duration="43000" />
+      <workItem from="1488744274528" duration="16982000" />
+      <workItem from="1488824042757" duration="365000" />
+      <workItem from="1488830128086" duration="1251000" />
+      <workItem from="1488837393929" duration="1296000" />
+      <workItem from="1488917711216" duration="233000" />
+      <workItem from="1488928451112" duration="4210000" />
+      <workItem from="1489082678468" duration="642000" />
+      <workItem from="1489096139417" duration="1578000" />
+      <workItem from="1489121239037" duration="3275000" />
+      <workItem from="1489439008831" duration="1263000" />
+      <workItem from="1489522617622" duration="5706000" />
+      <workItem from="1489604046780" duration="1052000" />
+      <workItem from="1490201399581" duration="3757000" />
+      <workItem from="1490214503227" duration="3737000" />
+      <workItem from="1490301853193" duration="1916000" />
+      <workItem from="1490648719770" duration="13415000" />
+      <workItem from="1490825511558" duration="1236000" />
+      <workItem from="1490899524167" duration="260000" />
+      <workItem from="1490900164025" duration="1279000" />
+      <workItem from="1490906362316" duration="15549000" />
+      <workItem from="1491239448490" duration="14387000" />
+      <workItem from="1491351106365" duration="1661000" />
+      <workItem from="1491618896437" duration="3575000" />
+      <workItem from="1491711907613" duration="502000" />
+      <workItem from="1491712481780" duration="3816000" />
+      <workItem from="1491716395506" duration="2092000" />
+      <workItem from="1491845577085" duration="19319000" />
+      <workItem from="1491969399228" duration="1429000" />
+      <workItem from="1492188343237" duration="521000" />
+      <workItem from="1492312377228" duration="223000" />
+      <workItem from="1492384197153" duration="34211000" />
+      <workItem from="1492488004998" duration="2501000" />
+      <workItem from="1492543161569" duration="25764000" />
+      <workItem from="1492635787781" duration="23510000" />
+      <workItem from="1492895206567" duration="4000" />
+      <workItem from="1492999023611" duration="8900000" />
+      <workItem from="1493081868634" duration="13899000" />
+      <workItem from="1495039267751" duration="74000" />
+      <workItem from="1496165096580" duration="460000" />
+      <workItem from="1496169729657" duration="1936000" />
+      <workItem from="1496172192089" duration="636000" />
+      <workItem from="1496179162460" duration="2470000" />
+      <workItem from="1496192632069" duration="6243000" />
+      <workItem from="1496450633642" duration="13793000" />
+      <workItem from="1496611423146" duration="101000" />
+      <workItem from="1496620161919" duration="1854000" />
+      <workItem from="1496645026854" duration="2048000" />
+      <workItem from="1496680910635" duration="3116000" />
+      <workItem from="1496690147566" duration="7585000" />
+      <workItem from="1496711683047" duration="11115000" />
+      <workItem from="1496724897872" duration="2747000" />
+      <workItem from="1496768292965" duration="1863000" />
+      <workItem from="1496774994761" duration="1823000" />
+      <workItem from="1496855127547" duration="1224000" />
+      <workItem from="1497053609876" duration="11786000" />
+      <workItem from="1497305732280" duration="2649000" />
+      <workItem from="1497630813064" duration="4051000" />
+      <workItem from="1497650651959" duration="1253000" />
+      <workItem from="1497818889272" duration="12960000" />
+      <workItem from="1498009370855" duration="5346000" />
+      <workItem from="1498183985060" duration="1359000" />
+      <workItem from="1498363439505" duration="1353000" />
+      <workItem from="1498364864914" duration="35000" />
+      <workItem from="1498364971687" duration="3064000" />
+      <workItem from="1498407450393" duration="1801000" />
+      <workItem from="1498427358440" duration="9062000" />
+      <workItem from="1498455413512" duration="1697000" />
+      <workItem from="1498504353658" duration="3955000" />
+      <workItem from="1498529103088" duration="3288000" />
+      <workItem from="1498579858077" duration="2753000" />
+      <workItem from="1498590034100" duration="1005000" />
+      <workItem from="1498858827467" duration="1154000" />
+      <workItem from="1498864908128" duration="1071000" />
+      <workItem from="1499022717931" duration="19796000" />
+      <workItem from="1499307944525" duration="2874000" />
+      <workItem from="1499446368651" duration="3817000" />
+      <workItem from="1499466442188" duration="1302000" />
+      <workItem from="1499570396619" duration="855000" />
+      <workItem from="1499651390002" duration="3223000" />
+      <workItem from="1499715167788" duration="2690000" />
+      <workItem from="1499740491598" duration="2238000" />
+      <workItem from="1499825278835" duration="4681000" />
+      <workItem from="1499878279318" duration="1440000" />
+      <workItem from="1499894873224" duration="199000" />
+      <workItem from="1499910374712" duration="2922000" />
+      <workItem from="1499987337437" duration="5747000" />
+      <workItem from="1500061339636" duration="7403000" />
+      <workItem from="1500076775683" duration="4749000" />
+      <workItem from="1500134053043" duration="5365000" />
+      <workItem from="1500233422063" duration="958000" />
+      <workItem from="1500358822787" duration="652000" />
+      <workItem from="1500426948360" duration="1895000" />
+      <workItem from="1500588902496" duration="2434000" />
+      <workItem from="1500679836960" duration="2906000" />
+      <workItem from="1500787558403" duration="656000" />
+      <workItem from="1500834780358" duration="4814000" />
+      <workItem from="1500849086170" duration="3635000" />
+      <workItem from="1500857240092" duration="710000" />
+      <workItem from="1500937714356" duration="276000" />
+      <workItem from="1501033693166" duration="942000" />
+      <workItem from="1501133138421" duration="3000" />
+      <workItem from="1503617816800" duration="9210000" />
+      <workItem from="1503687104823" duration="4583000" />
+      <workItem from="1503693453075" duration="2689000" />
+      <workItem from="1503701857943" duration="3394000" />
+      <workItem from="1505512253766" duration="128000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="499326000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-13" y="-13" width="2762" height="1770" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41573033" sideWeight="0.5015083" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.28750825" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="43" y="630" width="2650" height="483" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2631976" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993966" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24245852" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22285068" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41573033" sideWeight="0.4984917" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993966" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23567119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40846002" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32946795" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" x="43" y="630" width="2650" height="483" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24358974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24245852" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="54" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="48" column="13" lean-forward="true" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/versionIntercept.js" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/joinPage.coffee" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/articlePage.coffee" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/ArticlePage.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/FormPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/InfoPage.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/test.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="64" column="14" lean-forward="true" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/HomePage.html" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/ArticleForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="69" lean-forward="false" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/XzrtPropertiesFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.2.RELEASE/aca3ae146872101026f1b43463ab7f12a6893358/spring-webmvc-4.3.2.RELEASE-sources.jar!/org/springframework/web/servlet/config/annotation/WebMvcConfigurerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="138" column="7" lean-forward="true" selection-start-line="138" selection-start-column="7" selection-end-line="138" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.3.2.RELEASE/aca3ae146872101026f1b43463ab7f12a6893358/spring-webmvc-4.3.2.RELEASE-sources.jar!/org/springframework/web/servlet/handler/HandlerInterceptorAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="37" column="48" lean-forward="true" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.4/8dda3764a45c6fe593fa62fbfbacb586d00355e/tomcat-embed-core-8.5.4-sources.jar!/javax/servlet/http/HttpSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="192" column="29" lean-forward="true" selection-start-line="192" selection-start-column="29" selection-end-line="192" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/8.5.4/8dda3764a45c6fe593fa62fbfbacb586d00355e/tomcat-embed-core-8.5.4-sources.jar!/javax/servlet/http/HttpServletResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13248">
+          <caret line="75" column="47" lean-forward="false" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/XzrtProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/XzrtConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/query/ArticleQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/gui/HomeFlowEle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="15" column="59" lean-forward="true" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/ResourceService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2752">
+          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/XzrtWebsiteApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/BlockController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="19" column="43" lean-forward="false" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/libs/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/config/InterceptorRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="10" column="59" lean-forward="true" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session/1.3.1.RELEASE/3eb337d6b6a44f06b3de84c75ded6caa7164e9ca/spring-session-1.3.1.RELEASE-sources.jar!/org/springframework/session/web/socket/server/SessionRepositoryMessageInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="68" column="0" lean-forward="true" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/4.3.2.RELEASE/72acec93b901c2f88613fec3660e0311c3d25d3/spring-beans-4.3.2.RELEASE-sources.jar!/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="137" column="30" lean-forward="true" selection-start-line="137" selection-start-column="30" selection-end-line="137" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.3.2.RELEASE/4d695ffe01b7f23d66dc8d587f78212fecc70614/spring-core-4.3.2.RELEASE-sources.jar!/org/springframework/core/convert/support/ConversionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/UploadPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/LoginPage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/uploadPage.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.3.2.RELEASE/f0e4e72a7af722a285dc46cff641f058a46071db/spring-web-4.3.2.RELEASE-sources.jar!/org/springframework/http/MediaType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="101" column="101" lean-forward="true" selection-start-line="101" selection-start-column="96" selection-end-line="101" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="915">
+          <caret line="32" column="48" lean-forward="false" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/login-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/login-page.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="59" lean-forward="true" selection-start-line="12" selection-start-column="59" selection-end-line="12" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/Applicant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/inteceptor/UserHandlerInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="23" column="30" lean-forward="false" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/component/CustomMultipartResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/InfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/article-form.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/script/uploadForm.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1053">
+          <caret line="35" column="35" lean-forward="false" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/ResourceServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9248">
+          <caret line="319" column="13" lean-forward="false" selection-start-line="319" selection-start-column="13" selection-end-line="319" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/ResourceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1152">
+          <caret line="49" column="29" lean-forward="false" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/GuiService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="41" column="59" lean-forward="false" selection-start-line="41" selection-start-column="59" selection-end-line="41" selection-end-column="59" />
+          <folding>
+            <element signature="class#HomePageJsonWrapper#0;class#MainController#0" expanded="false" />
+            <element signature="class#ArticlePageJsonWrapper#0;class#MainController#0" expanded="false" />
+            <element signature="class#MenuPageJsonWrapper#0;class#MainController#0" expanded="false" />
+            <element signature="class#DoSaveArticleWrapper#0;class#MainController#0" expanded="false" />
+            <element signature="class#DoRemoveArticleWrapper#0;class#MainController#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/GuiServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="56" column="37" lean-forward="true" selection-start-line="56" selection-start-column="37" selection-end-line="56" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/Progress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/FormController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding>
+            <element signature="e#701#702#0" expanded="true" />
+            <element signature="e#736#737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>JDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>XZRTWebsite_main|XZRTWebsite</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>JDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

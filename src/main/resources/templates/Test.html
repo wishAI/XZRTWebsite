@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+    <title>Title</title>
+    <th:block th:include="model/MainModel :: publicStaticResources"/>
+    <!--<script type="text/javascript" th:src="@{/script/uploadPage.js}" defer="defer"></script>-->
+</head>
+<body>
+<form action="/block/doAddParagraph" method="post">
+    <input name="text" type="text"/>
+    <input type="submit" content="submit"/>
+    <div th:each="each : ${eachTest}" th:switch="${each.type}">
+        <p th:case="'a'" th:text="${each.zhazha}"></p>
+        <p th:case="'b'" th:text="${each.hedan}"></p>
+    </div>
+</form>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+    <title>Title</title>
+    <th:block th:include="model/MainModel :: publicStaticResources"/>
+    <script type="text/javascript" th:src="@{/script/test.js}" defer="defer"></script>
+</head>
+<body>
+    <button id="btnTest"></button>
+</body>
+</html>

@@ -1,0 +1,93 @@
+@import "var/var.sass"
+
+nav
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+  height: 64px
+  margin: 0
+  z-index: 1
+  background-color: $navColor
+  overflow: hidden
+  transition: background-color 0.4s
+
+nav *
+  display: inline-block
+
+#navLeft
+  margin-left: 50px
+
+#logo
+  margin-top: 0
+  margin-right: 20px
+  padding: 0
+
+#logo img
+  height: 60px
+  margin-top: 3px
+  vertical-align: top
+  filter: drop-shadow(0px 0px 1px white)
+
+#logo span
+  height: 64px
+  margin: 0
+  font-size: 20px
+  line-height: 64px
+  color: $navTextColor
+  transition: color 0.4s
+
+#nav_options, .userInfo
+  margin: 0
+  padding: 0
+  vertical-align: top
+  list-style-type: none
+
+.userInfo
+  margin-right: 40px
+
+#nav_options li, .userInfo li
+  margin-left: -4px
+  padding: 0
+  transition-property: background-color
+  transition-duration: 0.5s
+  transition-timing-function: ease-out
+
+#nav_options li:hover, .userInfo li:hover
+  background-color: $boxHoverColor
+
+#nav_options li a, .userInfo li a
+  height: 64px
+  margin: 0
+  padding: 0 19px
+  line-height: 64px
+  font-size: 18px
+  color: $navTextColor
+
+#navRight
+  float: right
+
+@media (max-device-width: 450px)
+  nav
+    height: 120px
+
+  #logo img
+    height: 110px
+    margin-top: 6px
+
+  #logo span
+    display: none
+
+  #nav_options li a, .userInfo li a
+    height: 128px
+    font-size: 30px
+    line-height: 128px
+
+@media (min-width: 1600px)
+  #navLeft
+    margin-left: calc(50% - 760px)
+
+@media (min-width: 2000px)
+  #navLeft
+    margin-left: calc(50% - 905px)
+

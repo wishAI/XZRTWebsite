@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+    <title>Title</title>
+    <th:block th:include="model/MainModel :: publicStaticResources"/>
+    <script type="text/javascript" th:src="@{/script/uploadPage.js}" defer="defer"></script>
+</head>
+<body>
+<form action="/block/doAddParagraph" method="post">
+    <input name="text" type="text"/>
+    <input type="submit" content="submit"/>
+</form>
+</body>
+</html>

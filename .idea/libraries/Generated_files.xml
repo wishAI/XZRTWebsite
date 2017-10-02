@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/src/main/resources/static/script/articlePage.js" />
+        <item url="file://$PROJECT_DIR$/src/main/resources/static/script/article-remover.js" />
+        <item url="file://$PROJECT_DIR$/src/main/resources/static/script/article-form.js" />
+        <item url="file://$PROJECT_DIR$/src/main/resources/static/script/uploadForm.js" />
+        <item url="file://$PROJECT_DIR$/src/main/resources/static/script/login-page.js" />
+        <item url="file://$PROJECT_DIR$/src/main/resources/static/script/test.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/src/main/resources/static/script/articlePage.js" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/static/script/articlePage.js" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/static/script/article-remover.js" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/static/script/article-form.js" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/static/script/loadResource.js" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/static/script/uploadForm.js" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/static/script/login-page.js" />
+      <root url="file://$PROJECT_DIR$/src/main/resources/static/script/test.js" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

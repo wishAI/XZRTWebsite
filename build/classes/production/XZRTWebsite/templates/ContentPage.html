@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+    <title>行知机器人社主页</title>
+    <th:block th:include="model/MainModel :: publicStaticResources"/>
+    <link rel="stylesheet" type="text/css" th:href="@{/style/contentPage.css}"/>
+    <script type="text/ecmascript" th:src="@{/script/loadResourceBlock.js}" defer="defer"></script>
+    <script type="text/ecmascript" th:src="@{/script/contentPage.js}" defer="defer"></script>
+</head>
+<body>
+
+<nav th:include="model/ComponentModel :: navigation"></nav>
+<main>
+
+    <th:block th:switch="${galleryType}">
+        <div th:case="news" class="headGalleryContainer" id="headGalleryContainer">
+            <div class="headGallery scrollblock" id="headGallery" th:style="'background-image: url('+@{/image/newsGallery.jpg}+');'"></div>
+        </div>
+        <div th:case="race" class="headGalleryContainer" id="headGalleryContainer">
+            <div class="headGallery scrollblock" id="headGallery" th:style="'background-image: url('+@{/image/raceGallery.jpg}+');'"></div>
+        </div>
+        <div th:case="tech" class="headGalleryContainer" id="headGalleryContainer">
+            <div class="headGallery scrollblock" id="headGallery" th:style="'background-image: url('+@{/image/techGallery.jpg}+');'"></div>
+        </div>
+    </th:block>
+    <!-- make the a gallery on the top -->
+    <!-- main content -->
+    <div class="contentBody scrollblock" id="contentBody">
+        <h1 th:text="${title}" class="contentHeader light">Fun Time In Our Club</h1>
+        <div class="contentInfoContainer">
+            <div class="contentInfoLeft">
+                <div class="contentInfo">
+                    <img alt="icoDate" th:src="@{/ico/icoDate.svg}"/>
+                    <span th:text="${createDate}"></span>
+                </div>
+                <div class="contentInfo">
+                    <img alt="icoAuther" th:src="@{/ico/icoAuthor.svg}"/>
+                    <span th:text="${author}"></span>
+                </div>
+            </div>
+            <div class="contentInfoRight">
+                <div class="contentInfo" id="btnPrint">
+                    <img alt="icoPrint" th:src="@{/ico/icoPrint.svg}"/>
+                    <span>Print</span>
+                </div>
+            </div>
+        </div>
+
+        <th:block th:each="block : ${blockUrls}">
+            <div class="resourceBlock" th:attr="blockSrc=${block}"></div>
+        </th:block>
+    </div>
+</main>
+<footer th:include="model/ComponentModel :: footer"></footer>
+</body>
+</html>

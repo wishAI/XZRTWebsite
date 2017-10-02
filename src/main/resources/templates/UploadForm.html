@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+    <title>Upload Form</title>
+    <th:block th:include="model/MainModel :: publicStaticResources"/>
+    <script type="text/javascript" th:src="@{/script/uploadForm.js}" defer="defer"></script>
+</head>
+<body>
+<input type="file" id="iptFiles"></input>
+<select id="fileType">
+    <option value="image">image</option>
+    <option value="music">music</option>
+</select>
+
+<textarea rows="10" cols="30" id="iptText"></textarea>
+
+<button id="btnFile">Upload Files</button>
+<button id="btnText">Upload Text</button>
+</body>
+</html>

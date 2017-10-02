@@ -1,0 +1,67 @@
+<html xmlns:th="http://www.thymeleaf.org/">
+
+
+<nav th:fragment="navigation">
+    <link rel="stylesheet" type="text/css" th:href="@{/style/navigation.css}"/>
+    <div id="navLeft">
+        <a id="logo" href="/">
+            <img th:src="@{/ico/logo.svg}"/>
+            <span>行知机器人社</span>
+        </a>
+        <ul id="nav_options">
+            <li><a href="">资讯</a></li>
+            <li><a href="">比赛</a></li>
+            <li><a href="">XChat</a></li>
+            <li><a href="">实验室</a></li>
+            <li><a href="">加入我们</a></li>
+        </ul>
+    </div>
+    <div id="navRight">
+        <ul class="userInfo" th:unless="${isLogin}">
+            <li><a href="/login/loginPage">登陆</a></li>
+            <li><a href="">注册</a></li>
+        </ul>
+        <ul class="userInfo" th:if="${isLogin}">
+            <li><a href="" th:text="${userName}"></a></li>
+            <li><a href="/login/doLogout">注销</a></li>
+        </ul>
+    </div>
+</nav>
+
+
+<footer th:fragment="footer">
+    <link rel="stylesheet" type="text/css" th:href="@{/style/footer.css}"/>
+    <!-- use id to define the list for stronger -->
+    <div class="footerRow">
+        <div class="footerCol">
+            <h5 class="footerTitle">XZRT</h5>
+            <ul class="footerList">
+                <li><a href="">关于我们</a></li>
+                <li><a href="">联系方式</a></li>
+            </ul>
+        </div>
+        <div class="footerDivider"></div>
+        <div class="footerCol">
+            <h5 class="footerTitle">友情链接</h5>
+            <ul class="footerList">
+                <li><a href="">LunaCraft</a></li>
+                <li><a href="">RCJ中国</a></li>
+            </ul>
+        </div>
+    </div>
+</footer>
+
+
+<div th:fragment="imageBlock" class="contentImageContainer">
+    <img th:src="${src}" alt="picture"/>
+    <p th:text="${info}" class="contentImageInfo"></p>
+</div>
+
+
+<p th:fragment="paragraphBlock" th:text="${text}" class="contentText"></p>
+
+
+</html>
+
+
+
