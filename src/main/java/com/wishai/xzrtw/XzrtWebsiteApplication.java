@@ -10,7 +10,6 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 @EnableAutoConfiguration(exclude={MultipartAutoConfiguration.class})
 @EnableJpaRepositories
 public class XzrtWebsiteApplication{
-
     public static void main(String[] args) {
         SpringApplication.run(XzrtWebsiteApplication.class, args);
     }

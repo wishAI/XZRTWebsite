@@ -5,13 +5,13 @@
       <GradleProjectSettings>
         <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:/Program Files (Disk)/gradle-3.3" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="gradleHome" value="/usr/local/Cellar/gradle/4.5.1/libexec" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
           </set>
         </option>
+        <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
     </option>
   </component>
