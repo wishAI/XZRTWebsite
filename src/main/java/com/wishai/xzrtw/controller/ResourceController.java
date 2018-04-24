@@ -54,7 +54,7 @@ public class ResourceController {
 
     /* POST METHOD GOES HERE */
 
-    @PostMapping("doCacheFile")
+    @PostMapping(value = "doCacheFile", consumes = "multipart/form-data")
     @ResponseBody
     @Transactional(rollbackFor = Exception.class)
     public DoCacheSrcStatusWrapper doCacheFile(
