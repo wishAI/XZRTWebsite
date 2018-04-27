@@ -67,14 +67,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fudf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build/fudf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -451,6 +460,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/FormController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/component/ApplicationEnvironmentFactory.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/build/fudf" />
       </list>
     </option>
   </component>
@@ -547,6 +557,11 @@
             <path>
               <item name="XZRTWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="XZRTWebsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="XZRTWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="XZRTWebsite" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="XZRTWebsite" type="b2602c69:ProjectViewProjectNode" />
@@ -695,7 +710,7 @@
       <workItem from="1524856006911" duration="1775000" />
       <workItem from="1524857871522" duration="72000" />
       <workItem from="1524858241993" duration="188000" />
-      <workItem from="1524858445021" duration="1856000" />
+      <workItem from="1524858445021" duration="1947000" />
     </task>
     <task id="LOCAL-00001" summary="4-27">
       <created>1524862708281</created>
@@ -715,10 +730,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5017000" />
+    <option name="totallyTimeSpent" value="5108000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="120" y="177" width="1232" height="924" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -741,10 +757,10 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292232" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296433" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26638657" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26638657" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.21512605" />
+      <window_info anchor="right" id="Gradle" order="3" visible="true" weight="0.21512605" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3296433" />
@@ -927,10 +943,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/fudf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
