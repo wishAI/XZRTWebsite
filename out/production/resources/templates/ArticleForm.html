@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org/">
+<head>
+    <title>Article Form</title>
+    <th:block th:include="model/MainModel :: publicStaticResources"/>
+    <script type="text/javascript" th:src="@{/script/article-form.js}" defer="defer"></script>
+</head>
+<body>
+<textarea id="iptJson" cols="60" rows="20"></textarea>
+
+<button id="btnPost">Post the article</button>
+</body>
+</html>
