@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAEA,CAAC;EACC,WAAW,EAAE,+EAA+E;EAC5F,eAAe,EAAE,IAAI;;AAEvB,MAAM;EACJ,WAAW,EAAE,kIAAkI;EAC/I,WAAW,EAAE,GAAG;EAChB,cAAc,EAAE,IAAI;;AAEtB,IAAI;EACF,MAAM,EAAE,CAAC;EACT,gBAAgB,ECJN,OAAO;;ADMnB,IAAI;EACF,WAAW,EAAE,IAAI;;AAEnB,gCAAgC;EAC9B,IAAI;IACF,WAAW,EAAE,KAAK",
-"sources": ["publicStyle.sass","var/var.sass"],
-"names": [],
-"file": "publicStyle.css"
-}
