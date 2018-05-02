@@ -1,117 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2db985ef-19c8-478c-b75e-75f195a7be07" name="Default" comment="4-27">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/InfoController.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/MainController.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/ResourceServiceImpl.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jayway_jsonpath_json_path_2_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_7_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_7_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_accessors_smart_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__net_minidev_json_smart_2_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_assertj_assertj_core_3_9_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_15_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_skyscreamer_jsonassert_1_5_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_test_2_0_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_2_0_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_test_autoconfigure_2_0_1_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_test_5_0_5_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_xmlunit_xmlunit_core_2_5_1.xml" beforeDir="false" />
+    <list default="true" id="2db985ef-19c8-478c-b75e-75f195a7be07" name="Default" comment="5-1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/fonts/SourceHanSansSC-Light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/ico/icoAuthor.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/ico/icoDate.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/ico/icoPrint.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/ico/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/image/Gallery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/image/newsGallery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/image/raceGallery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/image/slide1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/image/slide2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/image/slide3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/image/techGallery.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/article-form.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/article-form.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/article-form.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/article-remover.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/article-remover.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/article-remover.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/libs/coffee-script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/libs/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/loadResource.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/loadResource.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/loadResource.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/login-page.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/login-page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/login-page.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/menuPage.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/menuPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/menuPage.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/publicScript.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/publicScript.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/publicScript.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/test.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/test.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/uploadForm.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/uploadForm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/uploadForm.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/uploadPage.coffee" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/uploadPage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/script/uploadPage.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/articlePage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/articlePage.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/articlePage.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/contactPage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/contactPage.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/contactPage.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/footer.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/footer.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/footer.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/homePage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/homePage.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/homePage.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/infoPage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/infoPage.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/infoPage.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/menuPage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/menuPage.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/menuPage.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/navigation.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/navigation.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/navigation.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/publicStyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/publicStyle.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/publicStyle.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/var/var.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/var/var.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/static/style/var/var.sass" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/ArticleForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/ArticleRemover.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/FormPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/LoginPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/Test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/Test2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/UploadForm.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/UploadPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/model/ComponentModel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/templates/model/MainModel.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/XzrtWebsiteApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/XzrtWebsiteApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/InfoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/MainController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/ArticleContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/ArticleContent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/ResourceServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -218,11 +109,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InfoController.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InfoController.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/InfoController.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -650,6 +550,7 @@
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/service/ResourceServiceImpl.kt" />
         <option value="$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/controller/InfoController.kt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -935,7 +836,7 @@
       <workItem from="1524858241993" duration="188000" />
       <workItem from="1524858445021" duration="5121000" />
       <workItem from="1525148660553" duration="10183000" />
-      <workItem from="1525233388495" duration="1814000" />
+      <workItem from="1525233388495" duration="2157000" />
     </task>
     <task id="LOCAL-00001" summary="4-27">
       <created>1524862708281</created>
@@ -951,15 +852,28 @@
       <option name="project" value="LOCAL" />
       <updated>1524862846429</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5-1">
+      <created>1525235967534</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1525235967534</updated>
+    </task>
+    <task id="LOCAL-00004" summary="5-1">
+      <created>1525236068421</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1525236068421</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20279000" />
+    <option name="totallyTimeSpent" value="20622000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="122" width="1268" height="950" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -982,7 +896,7 @@
       <window_info anchor="bottom" id="Run" order="2" weight="0.28554362" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3292232" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296433" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32855436" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26672104" />
       <window_info anchor="right" id="Bean Validation" order="4" />
       <window_info id="Web" order="3" side_tool="true" />
@@ -1005,7 +919,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4-27" />
-    <option name="LAST_COMMIT_MESSAGE" value="4-27" />
+    <MESSAGE value="5-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1235,13 +1150,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/wishai/xzrtw/model/Text.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1347,6 +1255,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="33" column="11" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
         </state>
       </provider>
     </entry>
