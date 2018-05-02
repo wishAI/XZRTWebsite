@@ -15,11 +15,14 @@ public class ArticleContent {
     @Id
     @GeneratedValue
     private Integer id;
+
     private String title;
+
     @OneToOne(cascade = CascadeType.ALL, fetch = FetchType.LAZY)
     @JoinColumn(name = "coverFileId")
     @JsonProperty("cover")
     private File cover;
+
     private String info;
 
     @OneToMany(cascade = CascadeType.ALL, fetch = FetchType.LAZY)

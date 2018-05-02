@@ -18,7 +18,7 @@ public class UserServiceImpl implements UserService {
     }
 
     private User getUser(Integer id) throws UserNotFound {
-        User user = userRepository.findOne(id);
+        User user = userRepository.findById(id).orElse(null);
         if (user == null) {
             throw new UserNotFound();
         }
