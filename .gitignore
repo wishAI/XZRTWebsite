@@ -1,9 +1,12 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
 .gradle/
 .idea/
 build/
+out/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
 
 # Folder config file
 Desktop.ini
