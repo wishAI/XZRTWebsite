@@ -12,6 +12,7 @@ import com.wishai.xzrtw.repository.src.TextSrcRepository
 import org.json.JSONArray
 import org.json.JSONObject
 import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.context.annotation.DependsOn
 import org.springframework.core.io.Resource
 import org.springframework.core.io.UrlResource
 import org.springframework.stereotype.Service
@@ -37,10 +38,8 @@ constructor(
 
 
     /* THE FUNCTIONS OF PURE SRC GOES HERE */
-
-
     @Throws(FileNotFound::class)
-    private fun loadFileSrc(srcKey: String?, type: String): Resource {
+    private fun loadFileSrc(srcKey: String, type: String): Resource {
         /* get the file path first */
         val filePath = ResourceService.file2Path(type, srcKey)
         try {
@@ -164,7 +163,7 @@ constructor(
                     srcKey = file.srcKey
                 }
                 try {
-                    src = loadFileSrc(srcKey, dType)
+                    src = loadFileSrc(srcKey!!, dType)
                 } catch (fileNotFound: FileNotFound) {
                     fileNotFound.printStackTrace()
                 }
@@ -280,28 +279,28 @@ constructor(
     override fun saveArticle(article: Article): Int? {
         var article = article
         // convert the cacheId to srcKey in File, Text and other src objects
-        val blocks = article.articleContentZh.blocks
+        val blocks = article.articleContentZh!!.blocks
         for (block in blocks) {
             when (block.getdType()) {
                 ResourceService.BLOCK_TYPE_IMAGE -> {
                     // src: a file
                     val file = (block as ImageBlock).file
-                    file.srcKey = cacheIdToSrcKey(file.cacheId)
+                    file!!.srcKey = cacheIdToSrcKey(file.cacheId)
                 }
                 ResourceService.BLOCK_TYPE_PARAGRAPH -> {
                     // src: a text
                     val text = (block as ParagraphBlock).text
-                    text.srcKey = Integer.valueOf(cacheIdToSrcKey(text.cacheId))
+                    text!!.srcKey = Integer.valueOf(cacheIdToSrcKey(text.cacheId))
                 }
             }
         }
 
         // convert the cacheId to srcKey in cover
-        val cover = article.articleContentZh.cover
+        val cover = article!!.articleContentZh!!.cover
         cover.srcKey = cacheIdToSrcKey(cover.cacheId)
 
         article = articleRepository.saveAndFlush(article)
-        return article.id
+        return article!!.id
     }
 
     override fun saveApplicant(applicant: Applicant): Int? {

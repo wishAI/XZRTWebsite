@@ -6,7 +6,7 @@ public class ParagraphBlockEle extends BlockEle {
     private String textUrl;
 
     public ParagraphBlockEle() {
-        super.set_type(ResourceService.BLOCK_TYPE_PARAGRAPH);
+        super.set_type(ResourceService.Companion.getBLOCK_TYPE_PARAGRAPH());
     }
 
     public String getTextUrl() {

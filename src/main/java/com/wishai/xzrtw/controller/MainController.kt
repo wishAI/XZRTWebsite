@@ -3,7 +3,6 @@ package com.wishai.xzrtw.controller
 import com.fasterxml.jackson.annotation.JsonProperty
 import com.wishai.xzrtw.model.Applicant
 import com.wishai.xzrtw.model.Article
-import com.wishai.xzrtw.model.ArticleContent
 import com.wishai.xzrtw.model.gui.*
 import com.wishai.xzrtw.model.gui.blocks.BlockEle
 import com.wishai.xzrtw.service.GuiService
@@ -16,11 +15,10 @@ import org.springframework.web.bind.annotation.*
 
 @RestController
 class MainController @Autowired
-    constructor(
-        private val resourceService: ResourceService,
-        private val guiService: GuiService
-    ) {
-
+constructor(
+    private val resourceService: ResourceService,
+    private val guiService: GuiService
+) {
     /* GET METHODS GOES HERE*/
 
     @GetMapping(value = "home", produces = arrayOf(MediaType.APPLICATION_JSON_VALUE))
@@ -74,7 +72,7 @@ class MainController @Autowired
         val article = resourceService.findArticle(id)
 
         // make the article info element and get article content
-        val articleContent = article.getArticleContentByLang(lang)
+        val articleContent = article!!.getArticleContentByLang(lang)
         val articleInfoEle = article.toArticleInfoEle(lang)
 
         // make the data wrapper
@@ -133,7 +131,10 @@ class MainController @Autowired
         var menuItemEles: List<MenuItemEle>? = null
     }
 
-    class DoSaveArticleWrapper(@param:JsonProperty("article") var article: Article?)
+    class DoSaveArticleWrapper(
+            @param:JsonProperty("article")
+            var article: Article
+    )
 
     class DoRemoveArticleWrapper {
         var id: Int? = null

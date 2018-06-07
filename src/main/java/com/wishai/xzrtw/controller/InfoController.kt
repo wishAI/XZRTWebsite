@@ -19,6 +19,8 @@ class InfoController {
     fun uploadProgressInfo(@ModelAttribute("status") status: Progress): String {
         return if (status.isEmpty) {
             "{}"
-        } else status.toString()
+        } else {
+            status.toString()
+        }
     }
 }

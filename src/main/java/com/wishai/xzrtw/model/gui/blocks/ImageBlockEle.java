@@ -7,7 +7,7 @@ public class ImageBlockEle extends BlockEle {
     private String imageUrl;
 
     public ImageBlockEle() {
-        super.set_type(ResourceService.BLOCK_TYPE_IMAGE);
+        super.set_type(ResourceService.Companion.getBLOCK_TYPE_IMAGE());
     }
 
     public String getInfo() {

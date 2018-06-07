@@ -30,7 +30,7 @@ public class GuiServiceImpl implements GuiService {
     @Override
     public List<HomeItemEle> makeHomeItemEles(String lang) {
         // get articles from database
-        List<Article> newsArticles = articleRepository.findTop10ByCategoryOrderByCreateDateAsc(CATEGORY_NEWS);
+        List<Article> newsArticles = articleRepository.findTop10ByCategoryOrderByCreateDateAsc(Companion.getCATEGORY_NEWS());
 
         // setup list of home item elements
         List<HomeItemEle> homeItemEles = new ArrayList<HomeItemEle>();
@@ -48,8 +48,8 @@ public class GuiServiceImpl implements GuiService {
         final int FLOW_NUM = 4;
 
         // get articles from database
-        List<Article> raceArticles = articleRepository.findTop4ByCategoryOrderByCreateDateAsc(CATEGORY_RACE);
-        List<Article> techArticles = articleRepository.findTop4ByCategoryOrderByCreateDateAsc(CATEGORY_TECH);
+        List<Article> raceArticles = articleRepository.findTop4ByCategoryOrderByCreateDateAsc(Companion.getCATEGORY_RACE());
+        List<Article> techArticles = articleRepository.findTop4ByCategoryOrderByCreateDateAsc(Companion.getCATEGORY_TECH());
 
         // setup list of home flow elements
         List<HomeFlowEle> homeFlowEles = new ArrayList<HomeFlowEle>();
@@ -62,7 +62,7 @@ public class GuiServiceImpl implements GuiService {
         // append empty flows if not enough
         if (raceArticles.size() < FLOW_NUM) {
             for (int i = 0; i < FLOW_NUM - raceArticles.size(); i++) {
-                homeFlowEles.add(HomeFlowEle.makeEmptyInstance());
+                homeFlowEles.add(HomeFlowEle.Companion.makeEmptyInstance());
             }
         }
 
@@ -72,7 +72,7 @@ public class GuiServiceImpl implements GuiService {
 
         if (techArticles.size() < FLOW_NUM) {
             for (int i = 0; i < FLOW_NUM - techArticles.size(); i++) {
-                homeFlowEles.add(HomeFlowEle.makeEmptyInstance());
+                homeFlowEles.add(HomeFlowEle.Companion.makeEmptyInstance());
             }
         }
 
